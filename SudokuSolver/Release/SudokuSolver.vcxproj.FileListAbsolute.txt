@@ -1,0 +1,2 @@
+C:\Users\sein5\source\repos\SudokuSolver\SudokuSolver\Release\SudokuSolver.SudokuForm.resources
+C:\Users\sein5\source\repos\SudokuSolver\SudokuSolver\Release\SudokuSolver.vcxproj.GenerateResource.cache
